@@ -12,13 +12,13 @@
 > ***
 
 > ***
-> ## <font style="font-family: Courier New;">***About Me***</font>
+> ## <font style="font-family: Courier New;">:raising_hand: ***About Me***</font> 
 > ***
-> My name is Robert Rodarte and I am an Electrical Engineer. I am passionate about software development, networking, and communication systems!
+> My name is Robert Rodarte and I am an Electrical Engineer located in San Diego, CA! I am passionate about software development, networking, and communication systems! When I am not diving deep into these topics, I am usually hanging out with my friends or playing soccer!
 > ***
 
 > ***
-> ## <font style="font-family: Courier New;">***Education***</font>
+> ## <font style="font-family: Courier New;">:pencil: ***Education***</font>
 > ***
 > #### *San Diego State University, San Diego, CA | Jan 2025 - Present*
 > - Master of Science in Computer Engineering 
@@ -29,7 +29,7 @@
 > ***
 
 > ***
-> ## <font style="font-family: Courier New;">***Experience***</font>
+> ## <font style="font-family: Courier New;">:office: ***Experience***</font>
 > ***
 > #### *Fuse Integration, San Diego, CA | Jan 2025 - Present* | [Fuse Integration](https://www.fuseintegration.com/)
 > ***
@@ -47,7 +47,7 @@
 > ***
 
 > ***
-> ## <font style="font-family: Courier New;"> ***Contact Me***</font>
+> ## <font style="font-family: Courier New;">:telephone_receiver: ***Contact Me***</font>
 > ***
 > Email: <robertrodarte02@gmail.com>  
 > LinkedIn: [Robert Rodarte](www.linkedin.com/in/robertrodarte20)
