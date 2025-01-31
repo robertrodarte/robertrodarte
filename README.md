@@ -1,14 +1,14 @@
 > ***
-> ## <font style="font-family: Courier New;">***Table of Contents***</font>
+> ## ***Table of Contents***
 > ***
-> - [About Me](#about-me)
-> - [Education](#education)
+> - [About Me](#raising_hand-about-me)
+> - [Education](#pencil-education)
 >   - [San Diego State University](#san-diego-state-university-san-diego-ca--jan-2025---present)
 >   - [George Fox University](#george-fox-university-newberg-or--aug-2020---apr-2024)
-> - [Experience](#experience)
+> - [Experience](#office-experience)
 >   - [Fuse Integration](#fuse-integration-san-diego-ca--jan-2025---present--fuse-integration)
 >   - [TZ Medical Monitoring Solutions](#tz-medical-monitoring-solutions-tualatin-or-feb-2023---apr-2024--tz-medical-monitoring-solutions)
-> - [Contact](#contact-me)
+> - [Contact](#telephone_receiver-contact-me)
 > ***
 
 > ***
