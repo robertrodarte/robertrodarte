@@ -12,13 +12,13 @@
 > ***
 
 > ***
-> ## <font style="font-family: Courier New;">:raising_hand: ***About Me***</font> 
+> ## :raising_hand: ***About Me*** 
 > ***
 > My name is Robert Rodarte and I am an Electrical Engineer located in San Diego, CA! I am passionate about software development, networking, and communication systems! When I am not diving deep into these topics, I am usually hanging out with my friends or playing soccer!
 > ***
 
 > ***
-> ## <font style="font-family: Courier New;">:pencil: ***Education***</font>
+> ## :pencil: ***Education***
 > ***
 > #### *San Diego State University, San Diego, CA | Jan 2025 - Present*
 > - Master of Science in Computer Engineering 
@@ -29,7 +29,7 @@
 > ***
 
 > ***
-> ## <font style="font-family: Courier New;">:office: ***Experience***</font>
+> ## :office: ***Experience***
 > ***
 > #### *Fuse Integration, San Diego, CA | Jan 2025 - Present* | [Fuse Integration](https://www.fuseintegration.com/)
 > ***
@@ -38,7 +38,7 @@
 > - Communication
 > - Firmware
 > 
-> #### *TZ Medical Monitoring Solutions, Tualatin, OR Feb 2023 - Apr 2024* | [TZ Medical Monitoring Solutions](https://www.tzmedical.com/>monitoring-solutions)  
+> #### *TZ Medical Monitoring Solutions, Tualatin, OR | Feb 2023 - Apr 2024* | [TZ Medical Monitoring Solutions](https://www.tzmedical.com/>monitoring-solutions)  
 > ***
 > *Embedded Software Engineer Intern*
 > - Develop firmware for heart monitors
@@ -47,7 +47,7 @@
 > ***
 
 > ***
-> ## <font style="font-family: Courier New;">:telephone_receiver: ***Contact Me***</font>
+> ## :telephone_receiver: ***Contact Me***
 > ***
 > Email: <robertrodarte02@gmail.com>  
 > LinkedIn: [Robert Rodarte](www.linkedin.com/in/robertrodarte20)
